@@ -76,6 +76,7 @@ This is an automatically generated document.
 
 - **Function** - wrapLocAccessor
 - **Function** - newLocation
+- **Function** - wrapPlayerAccessor
 
 ## online.pizzacrust.lukkitplus.environment.JavaLibInteractionTest
 
