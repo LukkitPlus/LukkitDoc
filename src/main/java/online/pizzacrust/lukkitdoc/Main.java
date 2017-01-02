@@ -62,7 +62,6 @@ public class Main {
             for (String field : fields) {
                 builder.append("- **Variable** - " + field + "\n");
             }
-            builder.append("\n");
             List<ClassNode> cFunc = getFunctionsForLib(functions,lib);
             for (ClassNode func : cFunc) {
                 builder.append("- **Function** - " + getNameFunc(func) + "\n");
