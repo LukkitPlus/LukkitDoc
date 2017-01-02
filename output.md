@@ -4,13 +4,11 @@ This is an automatically generated document.
 ## online.pizzacrust.lukkitplus.api.AttributeType
 
 - **Variable** - baseValue
-
 - **Function** - setBaseValue
 
 ## online.pizzacrust.lukkitplus.api.CentralPoint
 
 - **Variable** - logger
-
 - **Function** - forceLoad
 - **Function** - newCommand
 - **Function** - newPlugin
@@ -18,22 +16,18 @@ This is an automatically generated document.
 
 ## online.pizzacrust.lukkitplus.api.data.DataAttachment
 
-
 - **Function** - get
 - **Function** - store
 
 ## online.pizzacrust.lukkitplus.api.DataPoint
 
-
 - **Function** - attach
 
 ## online.pizzacrust.lukkitplus.api.event.EventAttachment
 
-
 - **Function** - listen
 
 ## online.pizzacrust.lukkitplus.api.EventPoint
-
 
 - **Function** - attach
 - **Function** - cancelEvent
@@ -45,9 +39,7 @@ This is an automatically generated document.
 - **Variable** - z
 - **Variable** - worldName
 
-
 ## online.pizzacrust.lukkitplus.api.LuaAccessor
-
 
 - **Function** - accessJavaTypeField
 - **Function** - accessJavaTypeMethod
@@ -57,7 +49,6 @@ This is an automatically generated document.
 - **Function** - setPrimitiveField
 
 ## online.pizzacrust.lukkitplus.api.LuaLogger
-
 
 - **Function** - error
 - **Function** - info
@@ -69,7 +60,6 @@ This is an automatically generated document.
 - **Variable** - name
 - **Variable** - version
 - **Variable** - description
-
 - **Function** - verifyGlobal
 - **Function** - className
 - **Function** - onDisable
@@ -80,11 +70,9 @@ This is an automatically generated document.
 - **Variable** - displayName
 - **Variable** - location
 - **Variable** - id
-
 - **Function** - getAttribute
 
 ## online.pizzacrust.lukkitplus.api.TypePoint
-
 
 - **Function** - wrapLocAccessor
 - **Function** - newLocation
@@ -92,7 +80,6 @@ This is an automatically generated document.
 ## online.pizzacrust.lukkitplus.environment.JavaLibInteractionTest
 
 - **Variable** - Meow
-
 - **Function** - helloworld
 - **Function** - stringtest
 - **Function** - logger
